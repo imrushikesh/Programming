@@ -1,7 +1,7 @@
 # Angular Topics
-npm install - g@angular/cli
-ng version
-ng new <application name>
+    - npm install - g@angular/cli
+    - ng version
+    - ng new <application name>
 1. Introduction ---
     - Developers	Google
    -  Initial release -->	2.0 / 14 September 2016
